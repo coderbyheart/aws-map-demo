@@ -1,0 +1,11 @@
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+aside {
+  position: absolute;
+  z-index: 100;
+  top: 1rem;
+  left: 1rem;
+}

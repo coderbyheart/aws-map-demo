@@ -1,0 +1,9 @@
+export AWS_ACCESS_KEY_ID=...
+export AWS_SECRET_ACCESS_KEY=...
+export AWS_REGION=eu-west-1
+export DOMAIN_NAME=coderbyheart.github.io
+export MAP_NAME=aws-map-demo-map
+export PLACES_INDEX_NAME=aws-map-demo-index
+export MAP_API_KEY=v1.public. ...
+# Silence CDK warnings
+export JSII_SILENCE_WARNING_UNTESTED_NODE_VERSION=1
